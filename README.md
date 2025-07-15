@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Joel!
-
-I'm a **Machine Learning Engineer**, ♟️ **Chess Enthusiast**, and 🌾 **Farmer**.
+<p align="center">
+I'm a Machine Learning Engineer.
+</p>
 
 <p align="center">
   <a href="https://akinsanya.vercel.app/">👤 me</a> ·
