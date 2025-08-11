@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joel!
+# Joel
 <p align="center">
 I'm a Machine Learning Engineer.
 </p>
