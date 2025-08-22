@@ -1,10 +1,10 @@
-# Joel
+# 👋 Joel
 <p align="center">
-I'm a Machine Learning Engineer.
+Building intelligence with code.
 </p>
 
 <p align="center">
-  <a href="https://akinsanya.vercel.app/">👤 me</a> ·
-  <a href="https://akinsanya.vercel.app/articles">📝 blog</a> ·
-  <a href="https://akinsanya.vercel.app/projects">💻 projects</a>
+  <a href="https://akinsanya.vercel.app/">[🌐 Portfolio]</a> ·
+  <a href="https://akinsanya.vercel.app/articles">[📖 Articles]</a> ·
+  <a href="https://akinsanya.vercel.app/projects">[⚡ Projects]</a>
 </p>
