@@ -1,4 +1,4 @@
-# 👋 Joel
+# 👋 Hi
 <p align="center">
 Building intelligence with code.
 </p>
